@@ -38,16 +38,16 @@ Technical Experience
 
 My Not So Cool Side Projects
 :   Email Spam Classifier || http://bit.ly/2YDfjmV || Pandas, Numpy, Netlify, HTML & CSS  
-    * Fabricated a functional website to describe the process of making the classifier
-    * Analyzed the underlying mathematical concepts called Naive Bayes Theorem behind the machine learning model 
+* Fabricated a functional website to describe the process of making the classifier
+* Analyzed the underlying mathematical concepts called Naive Bayes Theorem behind the machine learning model 
 
 :   On the Radar || http://bit.ly/3pEVjwl || Radar.io, MongoDB, Google Cloud, Android Studio & Sleep Deprivation 
-    * Made a mobile application that allows users to match users with nearby events that suit their preferences
-    * Won Most Creative Radar.io Project at Hack the Valley IV 
+* Made a mobile application that allows users to match users with nearby events that suit their preferences
+* * Won Most Creative Radar.io Project at Hack the Valley IV 
 
 :   Data Visualization of COVID-19 Related Misinformation || http://bit.ly/39fgjDS || HTML, CSS, JS, ChartJS and Python
-    * Website that exhibits the collected data related to COVID-19 fake news on Twitter communities
-    * Used an in-built tweet scraper that visualizes the classified fake news from a user profile using ChartJS
+* Website that exhibits the collected data related to COVID-19 fake news on Twitter communities
+* Used an in-built tweet scraper that visualizes the classified fake news from a user profile using ChartJS
 
 Fun Facts About Me
 ----------------------------------------
