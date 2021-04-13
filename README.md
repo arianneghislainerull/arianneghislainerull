@@ -34,7 +34,7 @@ Also with a short description.
 Technical Experience
 --------------------
 
-My Cool Side Project
+My Not Cool Side Project
 :   For items which don't have a clear time ordering, a definition
     list can be used to have named items.
 
