@@ -26,11 +26,6 @@ Experience
 * Lead Software Developer || Paradigm Shift FRC 2198  || September 2019 to June 2020 
 * Web and Social Media Manager || Oriole Park Garden || May 2018 to January 2021 
 
-* First item
-
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
-
 **Extra-curricular Activities**
 
 * Managing Director || Global Spotlight || May 2019 to Present
@@ -41,41 +36,18 @@ Experience
 Technical Experience
 --------------------
 
-My Not Cool Side Projects
-:   Email Spam Classifier || http://bit.ly/2YDfjmV  
+My Not So Cool Side Projects
+:   Email Spam Classifier || http://bit.ly/2YDfjmV || Pandas, Numpy, Netlify, HTML & CSS  
+    * Fabricated a functional website to describe the process of making the classifier
+    * Analyzed the underlying mathematical concepts called Naive Bayes Theorem behind the machine learning model 
 
+:   On the Radar || http://bit.ly/3pEVjwl || Radar.io, MongoDB, Google Cloud, Android Studio & Sleep Deprivation 
+    * Made a mobile application that allows users to match users with nearby events that suit their preferences
+    * Won Most Creative Radar.io Project at Hack the Valley IV 
 
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
-
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
-
-Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
-
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
-
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
-
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
-
-[ref]: https://github.com/githubuser/superlongprojectname
+:   Data Visualization of COVID-19 Related Misinformation || http://bit.ly/39fgjDS || HTML, CSS, JS, ChartJS and Python
+    * Website that exhibits the collected data related to COVID-19 fake news on Twitter communities
+    * Used an in-built tweet scraper that visualizes the classified fake news from a user profile using ChartJS
 
 Fun Facts About Me
 ----------------------------------------
