@@ -18,27 +18,32 @@ Education
 Experience
 ----------
 
-**Your Most Recent Work Experience:**
+**Your Most Recent Experience:**
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+* Ambassador || Canada Learning Code (CLC) || October 2019 to Present
+* Fellow || STEMing Up Program || July 2019 to August 2020     
+* Software Developer || CodeDay || July 2020 to August 2020 
+* Lead Software Developer || Paradigm Shift FRC 2198  || September 2019 to June 2020 
+* Web and Social Media Manager || Oriole Park Garden || May 2018 to January 2021 
 
 * First item
 
 * Item with [link](http://www.example.com). Links will work both in
   the html and pdf versions.
 
-**That Other Job You Had**
+**Extra-curricular Activities**
 
-Also with a short description.
+* Managing Director || Global Spotlight || May 2019 to Present
+* Research Assistant || University of Toronto's URECS Program || August 2019 to June 2020
+* Secretary || Equity and Student Voice || September 2019 to June 2020
+* Mentor || Scarborough Historical Museum || May 2019 to February 2021
 
 Technical Experience
 --------------------
 
-My Not Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
+My Not Cool Side Projects
+:   Email Spam Classifier || http://bit.ly/2YDfjmV  
+
 
     * These items can also contain lists, but you need to mind the
       indentation levels in the markdown source.
