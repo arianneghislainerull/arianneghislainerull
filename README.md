@@ -11,13 +11,7 @@ Education
 2017 to 2021 || Anticipated
 :   **OSSD, SHSM in ICT sector**; L'Amoreaux Collegiate Institute
 
-    *Equity and Student Voice*
-
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
-
-    *Minor: Awesomeology*
+    Robotics Club, Computer Science Club, Equity and Student Voice, Yearbook Club and Student Activity Council
 
 Experience
 ----------
@@ -82,9 +76,8 @@ Extra Section, Call it Whatever You Want
 * Human Languages:
 
      * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
+     * Tagalog (native speaker)
 
-* Random tidbit
+* Loran Scholar Semi-finalist of Class 2021 || Top 5% out of the 6,084 applicants
 
-* Other sort of impressive-sounding thing you did
+* Ontario Volunteer Service Award
