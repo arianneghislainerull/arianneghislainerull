@@ -43,7 +43,7 @@ My Not So Cool Side Projects
 
 :   On the Radar || http://bit.ly/3pEVjwl || Radar.io, MongoDB, Google Cloud, Android Studio & Sleep Deprivation 
 * Made a mobile application that allows users to match users with nearby events that suit their preferences
-* * Won Most Creative Radar.io Project at Hack the Valley IV 
+* Won Most Creative Radar.io Project at Hack the Valley IV 
 
 :   Data Visualization of COVID-19 Related Misinformation || http://bit.ly/39fgjDS || HTML, CSS, JS, ChartJS and Python
 * Website that exhibits the collected data related to COVID-19 fake news on Twitter communities
