@@ -1,4 +1,4 @@
-Arianne Ghislaine Rull
+Arianne Ghislaine Rull (she/her)
 ============
 arianneghislaine@gmail.com
 -------------------     ----------------------------
