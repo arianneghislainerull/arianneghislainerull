@@ -20,7 +20,7 @@ Experience
 
 **Most Recent Experiences:**
 
-* Ambassador || Canada Learning Code (CLC) || October 2019 to Present
+* Ambassador || Canada Learning Code || October 2019 to Present
 * Fellow || STEMing Up Program || July 2019 to August 2020     
 * Software Developer || CodeDay || July 2020 to August 2020 
 * Lead Software Developer || Paradigm Shift FRC 2198  || September 2019 to June 2020 
@@ -30,7 +30,7 @@ Experience
 
 * Managing Director || Global Spotlight || May 2019 to Present
 * Research Assistant || University of Toronto's URECS Program || August 2019 to June 2020
-* Secretary || Equity and Student Voice || September 2019 to June 2020
+* Secretary || Equity and Student Voice Council || September 2019 to June 2020
 * Mentor || Scarborough Historical Museum || May 2019 to February 2021
 
 Technical Experience
