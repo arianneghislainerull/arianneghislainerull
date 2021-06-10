@@ -2,7 +2,7 @@ Arianne Ghislaine Rull (she/her)
 ============
 arianneghislaine@gmail.com
 -------------------     ----------------------------
-[Resume](https://drive.google.com/file/d/1ptDm4STvBQN8yzZLn27U1lI8K8y6fhjf/view?usp=sharing) ||
+[Resume](https://docs.google.com/presentation/d/1PPugymspmaqPsxQK9jbf1q4oFq7WJV5xzEzS5B2FCTw/edit?usp=sharing) ||
 [GitHub](https://github.com/arianneghislainerull) ||
 [Devpost](https://devpost.com/arianneghislaine)
 -------------------     ----------------------------
