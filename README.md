@@ -10,7 +10,7 @@ arianneghislaine@gmail.com
 Education
 ---------
 
-2017 to 2021 || Anticipated
+2017 to 2021 || 
 :   **OSSD, SHSM in ICT sector**; L'Amoreaux Collegiate Institute
 
     Robotics Club, Computer Science Club, Equity and Student Voice, Yearbook Club and Student Activity Council
