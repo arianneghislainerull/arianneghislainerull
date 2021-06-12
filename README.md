@@ -13,8 +13,7 @@ Education
 2021 to 2025 || Anticipated
 :   **Bachelor of Arts in Computer Science**; York University
 
-2017 to 2021 || 
-:   **OSSD, SHSM in ICT sector**; L'Amoreaux Collegiate Institute
+2017 to 2021 || **OSSD, SHSM in ICT sector**; L'Amoreaux Collegiate Institute
 
     Robotics Club, Computer Science Club, Equity and Student Voice, Yearbook Club and Student Activity Council
 
