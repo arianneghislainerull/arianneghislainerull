@@ -1,6 +1,7 @@
-Arianne Ghislaine Rull (she/her)
+
+🎯 Arianne Ghislaine Rull (she/her)
 ============
-arianneghislaine@gmail.com
+📫 arianneghislaine@gmail.com
 -------------------     ----------------------------
 [Resume](https://docs.google.com/presentation/d/1PPugymspmaqPsxQK9jbf1q4oFq7WJV5xzEzS5B2FCTw/edit?usp=sharing) ||
 [GitHub](https://github.com/arianneghislainerull) ||
@@ -17,15 +18,15 @@ Education
 
     Robotics Club, Computer Science Club, Equity and Student Voice, Yearbook Club and Student Activity Council
 
-Experience
+Experiences
 ----------
 
 **Most Recent Experiences:**
 
-* Ambassador || Canada Learning Code || October 2019 to Present
-* Fellow || STEMing Up Program || July 2019 to August 2020     
 * Software Developer || CodeDay || July 2020 to August 2020 
+* Ambassador || Canada Learning Code || October 2019 to Present
 * Lead Software Developer || Paradigm Shift FRC 2198  || September 2019 to June 2020 
+* Fellow || STEMing Up Program || July 2019 to August 2020     
 * Web and Social Media Manager || Oriole Park Garden || May 2018 to January 2021 
 
 **Extra-curricular Activities**
@@ -57,8 +58,8 @@ Fun Facts About Me
 
 * Human Languages:
 
-     * English (native speaker)
-     * Tagalog (native speaker)
+     * English 
+     * Tagalog 
 
 * Loran Scholar Semi-finalist of Class 2021 || Top 5% out of the 6,084 applicants
 
