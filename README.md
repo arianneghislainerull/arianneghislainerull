@@ -32,8 +32,8 @@ Experiences
 **Extra-curricular Activities**
 
 * Managing Director || Global Spotlight || May 2019 to Present
-* Research Assistant || University of Toronto's URECS Program || August 2019 to June 2020
 * Secretary || Equity and Student Voice Council || September 2019 to June 2020
+* Research Assistant || University of Toronto's URECS Program || August 2019 to June 2020
 * Mentor || Scarborough Historical Museum || May 2019 to February 2021
 
 Technical Experience
