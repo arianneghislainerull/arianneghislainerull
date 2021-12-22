@@ -23,8 +23,10 @@ Experiences
 
 **Most Recent Experiences:**
 
+* Engineering and Technology Intern || Sunnybrook Health Sciences Centre || July 2021 to August 2021
+* Student || Google Computer Science Summer Institute || July 2021 to August 2021
 * Software Developer || CodeDay || July 2020 to August 2020 
-* Ambassador || Canada Learning Code || October 2019 to Present
+* Ambassador || Canada Learning Code || October 2019 to June 2021
 * Lead Software Developer || Paradigm Shift FRC 2198  || September 2019 to June 2020 
 * Fellow || STEMing Up Program || July 2019 to August 2020     
 * Web and Social Media Manager || Oriole Park Garden || May 2018 to January 2021 
