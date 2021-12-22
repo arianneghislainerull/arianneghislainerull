@@ -13,6 +13,8 @@ Education
 
 2021 to 2025 || Anticipated
 :   **Bachelor of Arts in Computer Science**; York University
+    First Year Representative at Computing Students Hub and Google Developer Student Club
+
 
 2017 to 2021 || **OSSD, SHSM in ICT sector**; L'Amoreaux Collegiate Institute
 
