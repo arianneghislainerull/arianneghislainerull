@@ -14,7 +14,7 @@ Education
 2021 to 2025 || Anticipated :   **Bachelor of Arts in Computer Science**; York University
 
     SY 2021-2022 - First Year Representative at Computing Students Hub and Google Developer Student Club
-    SY 2022-2023 Social Director at Computing Students Hub
+    SY 2022-2023 - Social Director at Computing Students Hub
 
 
 2017 to 2021 || **OSSD, SHSM in ICT sector**; L'Amoreaux Collegiate Institute
