@@ -4,7 +4,7 @@
 📫  arianneghislaine@gmail.com
 -------------------     ----------------------------
 [GitHub](https://github.com/arianneghislainerull) ||
-[Devpost](https://devpost.com/arianneghislaine)
+[Devpost](https://devpost.com/arianneghislaine) || [Portfolio](https://ariannerullcodes.netlify.app/)
 -------------------     ----------------------------
 
 Education
