@@ -7,14 +7,6 @@
 [Devpost](https://devpost.com/arianneghislaine) || [Portfolio](https://ariannerullcodes.netlify.app/)
 -------------------     ----------------------------
 
-Education
----------
-
-2021 to Present || Anticipated :   **Honours Bachelor's in Computer Science and Economics**;
-
-    SY 2021-2022 - First Year Representative at Computing Students Hub and Google Developer Student Club
-    SY 2022-2023 - Social Director at Computing Students Hub
-
 Technical Experience
 --------------------
 
