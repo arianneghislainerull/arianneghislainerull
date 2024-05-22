@@ -7,19 +7,7 @@
 [Devpost](https://devpost.com/arianneghislaine) || [Portfolio](https://ariannerullcodes.netlify.app/)
 -------------------     ----------------------------
 
-Technical Experience
---------------------
-
-My Not So Cool Side Projects
-
-:   Email Spam Classifier || http://bit.ly/2YDfjmV || Pandas, Numpy, Netlify, HTML & CSS  
-* Fabricated a functional website to describe the process of making the classifier
-* Analyzed the underlying mathematical concepts called Naive Bayes Theorem behind the machine learning model 
-
-:   On the Radar || http://bit.ly/3pEVjwl || Radar.io, MongoDB, Google Cloud, Android Studio & Sleep Deprivation 
-* Made a mobile application that allows users to match users with nearby events that suit their preferences
-* Won Most Creative Radar.io Project at Hack the Valley IV 
-
-:   Data Visualization of COVID-19 Related Misinformation || http://bit.ly/39fgjDS || HTML, CSS, JS, ChartJS and Python
-* Website that exhibits the collected data related to COVID-19 fake news on Twitter communities
-* Used an in-built tweet scraper that visualizes the classified fake news from a user profile using ChartJS
+🌺 I’m currently pursuing Computer Science at York University while working at Hydro One. 
+🌺 Beyond coding, my passions include reading, belting out tunes at karaoke, playing arcade basketball, dancing, exploring food festivals, and hiking. 
+🌺 In the past, I’ve worked at companies like Blackberry, Karla Rewards, and Sunnybrook Health Sciences Centre. 
+🌺 Feel free to connect with me at arull@my.yorku.ca—I’m always open to collaboration or a friendly chat! 
