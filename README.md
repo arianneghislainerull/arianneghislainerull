@@ -10,7 +10,7 @@
 Technical Experience
 --------------------
 
-My Not So Cool Side Projects
+🌺 My Not So Cool Side Projects
 
 :   Email Spam Classifier || http://bit.ly/2YDfjmV || Pandas, Numpy, Netlify, HTML & CSS  
 * Fabricated a functional website to describe the process of making the classifier
