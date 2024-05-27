@@ -11,7 +11,7 @@
 
 🌺 In the past, I’ve worked at companies like Blackberry, Karla Rewards, and Sunnybrook Health Sciences Centre. 
 
-🌺 Beyond coding, my passions include arranging flowers, reading, belting out tunes at karaoke, playing arcade basketball, dancing, exploring new places, and embarking on exhilarating hikes.
+🌺 Beyond coding, my passions include arranging flowers, reading, belting out tunes at karaoke, basketball, dancing, exploring new places, and embarking on exhilarating hikes.
 
 🌺 Fluent in English and Filipino, currently learning Mandarin :) 
 
