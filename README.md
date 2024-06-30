@@ -7,7 +7,7 @@
 [Devpost](https://devpost.com/arianneghislaine) || [Portfolio](https://ariannerullcodes.netlify.app/)
 -------------------     ----------------------------
 
-🌺 I’m currently pursuing Computer Science at York University while working at Hydro One. 
+🌺 I'm an undergraduate student majoring in Computer Science at York University, seeking 2025 internships. 🎓💻
 
 🌺 I'm learning about artificial intelligence and numerical weather prediction this summer! 
 
