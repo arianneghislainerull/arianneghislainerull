@@ -13,7 +13,5 @@
 
 🌺 In the past, I’ve worked at companies like Blackberry, Karla Rewards, and Sunnybrook Health Sciences Centre. 
 
-🌺 Beyond coding, my passions include arranging flowers, reading, belting out tunes at karaoke, basketball, dancing, exploring new places, and embarking on exhilarating hikes.
-
-🌺 Feel free to connect with me at arianneghislaine@gmail.com—I’m always open to collaboration or a friendly chat! 
+🌺 Feel free to connect with me at arianneghislaine@gmail.com—I’m always open to collaboration, job opportunities or a friendly chat! 
 
