@@ -9,6 +9,8 @@
 
 🌺 I'm an undergraduate student majoring in Computer Science at York University, seeking 2025 internships.
 
+🌺 I'm currently working as a Business Analyst intern in Bay Street, Canada’s financial district, at Hydro One.
+
 🌺 I'm learning about artificial intelligence and numerical weather prediction this summer! 
 
 🌺 In the past, I’ve worked at companies like Blackberry, Karla Rewards, and Sunnybrook Health Sciences Centre. 
