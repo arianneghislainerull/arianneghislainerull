@@ -7,7 +7,7 @@
 [Devpost](https://devpost.com/arianneghislaine) || [Portfolio](https://ariannerullcodes.netlify.app/)
 -------------------     ----------------------------
 
-🌺 I'm an undergraduate student majoring in Computer Science at York University, seeking 2025 internships.
+🌺 I'm an undergraduate student majoring in Computer Science at York University.
 
 🌺 I'm currently working as a Business Analyst intern in Bay Street, Canada’s financial district, at Hydro One.
 
