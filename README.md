@@ -5,11 +5,14 @@
 Present
 - Interning at Hydro One as a Business Analyst in Downtown Toronto (Bay Street)
 - Currently learning about Artificial Intelligence 
+
 Past
+
 - Wrote code for Blackberry and Sunnybrook Health Sciences Centre
 - Completed a product design internship at a fintech startup, Karla Rewards 
 - Designed posters, stories, and other forms of digital content for clubs at York University
 - Won scholarships, sang lots of karaoke, and learned proofs in school
+
 Future
 - Only time will tell :) 
 
