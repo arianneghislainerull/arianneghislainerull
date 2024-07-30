@@ -3,14 +3,6 @@
 ============
 
 
-🌺 I'm an undergraduate student majoring in Computer Science at York University.
-
-🌺 I'm working as a Business Analyst intern in Bay Street, Canada’s financial district, at Hydro One.
-
-🌺 In the past, I’ve worked at companies like Blackberry, Karla Rewards, and Sunnybrook Health Sciences Centre. 
-
-
-
 <h1 align="center"><b>Hi , I'm Arianne Ghislaine Rull</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
@@ -44,12 +36,7 @@ Future
 - Only time will tell :) 
 <br><br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-<br>
-
-<br>
 
 ---
 
