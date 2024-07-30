@@ -7,19 +7,22 @@
   </a>
 </p>
 
-<hr>
+<br>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="End GIF">
+<br><br>
 <p align="center">
   <a href="https://github.com/arianneghislainerull">GitHub</a> ||
   <a href="https://devpost.com/arianneghislaine">Devpost</a> ||
   <a href="https://ariannerullcodes.netlify.app/">Portfolio</a>
 </p>
 
-<hr>
-
 <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="End GIF">
+<br><br>
+<br>
+
 <br><be>
 
 **Present**
