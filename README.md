@@ -32,6 +32,4 @@
 - Won scholarships, sang lots of karaoke, and learned proofs in school
 
 **Future**
-- Only time will tell :)
-
-
+- Fintech industry <3
