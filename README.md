@@ -23,6 +23,7 @@
 **Present**
 - Interning at Hydro One as a Business Analyst in Downtown Toronto (Bay Street)
 - Currently learning about Artificial Intelligence
+- Computer Science student at York University
 
 **Past**
 - Wrote code for Blackberry and Sunnybrook Health Sciences Centre
