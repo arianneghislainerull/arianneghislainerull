@@ -18,18 +18,3 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="End GIF">
 
-<br>
-
-**Present**
-- Interning at Hydro One as a Business Analyst in Downtown Toronto (Bay Street)
-- Currently learning about Artificial Intelligence
-- Computer Science student at York University
-
-**Past**
-- Wrote code for Blackberry and Sunnybrook Health Sciences Centre
-- Completed a product design internship at a fintech startup, Karla Rewards
-- Designed posters, stories, and other forms of digital content for clubs at York University
-- Won scholarships, sang lots of karaoke, and learned proofs in school
-
-**Future**
-- Fintech industry <3
