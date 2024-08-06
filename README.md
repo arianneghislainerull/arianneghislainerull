@@ -9,11 +9,11 @@
 
 <p align="left">
 Hello, curious soul! I’m Arianne, a passionate learner and problem-solver with a knack for creating innovative solutions. Currently, I’m diving deep into the world of technology at Hydro One on Bay Street, Canada. My journey has also taken me through exciting roles at Blackberry, Karla Rewards, and Sunnybrook Health Sciences Centre.
-<br>
+<br><br>
 At Blackberry, I developed internal tools and data visualization dashboards, while at Karla Rewards, I contributed to designing their website and mobile app. At Sunnybrook, I created a web control interface for a digital acquisition system. My research experience includes working with the University of Toronto’s Cobweb Lab, where I helped build a model studying aging farmers in the Philippines.
-<br>
+<br><br>
 I’m also currently expanding my horizons by taking an AI course at York University, further fueling my passion for technology.
-<br>
+<br><br>
 When I’m not immersed in tech, you’ll find me reading research papers or books, hiking through nature, indulging in matcha treats, and exploring the great outdoors. Join me as I continue to uncover and share the fascinating concepts I’m passionate about. Let’s embark on this learning adventure together!
 </p>
 
