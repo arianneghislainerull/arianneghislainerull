@@ -15,6 +15,8 @@ Currently, I’m interning as a Business Analyst at Hydro One on Bay Street, Can
 At Blackberry, I developed internal tools and data visualization dashboards. At Karla Rewards, I contributed to designing their website and mobile app. At Sunnybrook, I created a web control interface for a digital acquisition system. My research experience includes working with the University of Toronto’s Cobweb Lab, where I helped build a model studying aging farmers in the Philippines.
 <br><br>
 During my free time, you’ll find me reading research papers or books, hiking through nature, indulging in matcha treats, and exploring the great outdoors. 
+<br><br><br>
+"What you want isn’t happiness; chasing dopamine is a source of suffering. What you really want is peace." 
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="End GIF">
