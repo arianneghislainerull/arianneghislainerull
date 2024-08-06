@@ -16,7 +16,7 @@ At Blackberry, I developed internal tools and data visualization dashboards. At 
 <br><br>
 During my free time, you’ll find me reading research papers or books, hiking through nature, indulging in matcha treats, and exploring the art galleries and outdoors. 
 <br><br>
-You can contact me at arianneghislaine@gmail.com
+I'm open to new opportunities and collaborations. You can contact me at [arianneghislaine@gmail.com](mailto:arianneghislaine@gmail.com) 
 <br><br>
 The Most Important Lesson I've Learned in Life:
   "What you want isn’t happiness; chasing dopamine is a source of suffering. What you really want is peace." 
