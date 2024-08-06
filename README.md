@@ -7,10 +7,14 @@
   </a>
 </p>
 
-<p align="center">
-  Hi there! I'm Arianne, a passionate learner with an insatiable thirst for knowledge. Currently, I'm diving deep into the world of technology at Hydro One on Bay Street, Canada. My journey includes exciting roles at Blackberry, Karla Rewards, and Sunnybrook Health Sciences Centre. At Blackberry, I developed internal tools and data visualization dashboards. At Karla Rewards, I contributed to designing their website and mobile app. At Sunnybrook, I created a web control interface for a digital acquisition system. I also gained research experience with the University of Toronto's Cobweb Lab, helping build a model about aging farmers in the Philippines. 
-  <br><br>
-  I'm also expanding my horizons with an AI course at York University, fueling my passion for technology even further. In my free time, I love reading research papers, hiking, enjoying matcha treats, and exploring nature. Join me as I uncover and share fascinating concepts and embark on this learning adventure!
+<p align="left">
+Hello, curious soul! I’m Arianne, a passionate learner and problem-solver with a knack for creating innovative solutions. Currently, I’m diving deep into the world of technology at Hydro One on Bay Street, Canada. My journey has also taken me through exciting roles at Blackberry, Karla Rewards, and Sunnybrook Health Sciences Centre.
+<br>
+At Blackberry, I developed internal tools and data visualization dashboards, while at Karla Rewards, I contributed to designing their website and mobile app. At Sunnybrook, I created a web control interface for a digital acquisition system. My research experience includes working with the University of Toronto’s Cobweb Lab, where I helped build a model studying aging farmers in the Philippines.
+<br>
+I’m also currently expanding my horizons by taking an AI course at York University, further fueling my passion for technology.
+<br>
+When I’m not immersed in tech, you’ll find me reading research papers or books, hiking through nature, indulging in matcha treats, and exploring the great outdoors. Join me as I continue to uncover and share the fascinating concepts I’m passionate about. Let’s embark on this learning adventure together!
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="End GIF">
