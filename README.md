@@ -18,8 +18,7 @@ During my free time, you’ll find me reading research papers or books, hiking t
 <br><br>
 I'm open to new opportunities and collaborations. You can contact me at arianneghislaine@gmail.com
 <br><br>
-The Most Important Lesson I've Learned in Life:
-  "What you want isn’t happiness; chasing dopamine is a source of suffering. What you really want is peace." 
+
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="End GIF">
