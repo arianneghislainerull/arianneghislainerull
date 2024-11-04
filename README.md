@@ -14,7 +14,7 @@ As a Business Analyst at Hydro One, I am working on Windows 11 Migration, data a
 <br><br>
 At Blackberry, I developed internal tools and data visualization dashboards. At Karla Rewards, I contributed to designing their website and mobile app. At Sunnybrook, I created a web control interface for a digital acquisition system. My research experience includes working with the University of Toronto’s Cobweb Lab, where I helped build a model studying aging farmers in the Philippines.
 <br><br>
-During my free time, you’ll find me reading research papers or books, hiking through nature, indulging in matcha treats, and exploring the art galleries and outdoors. 
+During my free time, you’ll find me reading research papers or books, hiking through nature, painting for fun, indulging in matcha treats, and exploring the art galleries and outdoors. 
 <br><br>
 I'm open to new opportunities and collaborations. You can contact me at arianneghislaine@gmail.com
 <br><br>
