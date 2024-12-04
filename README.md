@@ -12,7 +12,7 @@ Hello, curious soul! I’m Arianne, a passionate learner and problem-solver.
 <br><br>  
 As a Business Analyst at Hydro One, I am working on Windows 11 Migration, data analytics, and IT operations. This winter, I will start my data engineering internship at Telus. I've worked at Blackberry, Karla Rewards, and Sunnybrook Health Sciences Centre. I’m also learning more about AI by taking a course at York University and <a href="https://curius.app/arianne-ghislaine-rull/computer-science">reading research papers</a>, further fueling my passion for technology.
 <br><br>
-At Blackberry, I developed internal tools and data visualization dashboards. At Karla Rewards, I contributed to designing their website and mobile app. At Sunnybrook, I created a web control interface for a digital acquisition system. My research experience includes working with the University of Toronto’s Cobweb Lab, where I helped build a model studying aging farmers in the Philippines.
+At Blackberry, I developed internal tools and data visualization dashboards. At Karla Rewards, I contributed to designing their website and mobile app. At Sunnybrook, I created a web control interface for a digital acquisition system. My research experience includes working with the <a href="https://docs.google.com/document/d/1poj_nZZkqjlr2TE4mtAW8XFljRqgqi-QZLqzgS2x2Zc/edit?usp=sharing">University of Toronto’s Cobweb Lab, where I helped build a model studying aging farmers in the Philippines</a>.
 <br><br>
 During my free time, you’ll find me reading research papers or books, hiking through nature, painting for fun, indulging in matcha treats, and exploring the art galleries and outdoors. 
 <br><br>
