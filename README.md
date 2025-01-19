@@ -28,7 +28,7 @@ Hi there! 👋 I’m Arianne, a passionate and goal-oriented Computer Science st
   - **Business Analyst Intern** at [Hydro One](https://www.hydroone.com/): Hydro One is Ontario’s largest electricity transmission and distribution provider. I developed Excel models, helped merge databases for the Windows 11 migration project, and assisted in the IT Operations company-wide.  
   - **Software Engineer Intern** at [Blackberry](https://www.blackberry.com/): At Blackberry, a global leader in security software and services, I developed an interactive data visualization dashboard and internal tools to streamline decision-making processes.  
   - **Software Engineer Intern** at [Sunnybrook Health Sciences Centre](https://sunnybrook.ca/): Sunnybrook is one of Canada’s premier hospitals, ranked **#2 in Canada** and **#30 globally** in Newsweek's "World's Best Hospitals 2024" list. I built software tools to improve operational efficiency in a healthcare setting.  
-  - **Product Designer Intern** at [Karla Rewards](https://karla.ai/): At Karla Rewards, a fintech startup specializing in customer loyalty solutions, I designed the website and mobile app using Figma, delivering intuitive user interfaces and impactful design systems.
+  - **Product Designer Intern** at [Karla Ascend](https://karlaascend.com/): At Karla Rewards, a fintech startup specializing in customer loyalty solutions, I designed the website and mobile app using Figma, delivering intuitive user interfaces and impactful design systems.
 
 - 🎓 **Education**: Studying **Computer Science** at York University.  
 - 🧠 **Passionate About**: Data, Artificial Intelligence, and Human-Computer Interaction.  
