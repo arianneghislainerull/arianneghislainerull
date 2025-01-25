@@ -25,18 +25,24 @@ Hi there! 👋 I’m Arianne, a passionate and goal-oriented Computer Science st
 
 - 💼 **Currently**: Thrilled to be in my 7th internship as a **Software Engineering Intern** at [Telus](https://www.telus.com/), one of Canada’s leading telecommunications companies, where I’m contributing to innovative data engineering projects and solutions that impact millions of customers.  
 - 💡 **Previously**:  
-  - **Business Analyst Intern** at [Hydro One](https://www.hydroone.com/): Hydro One is Ontario’s largest electricity transmission and distribution provider. I developed Excel models, helped merge databases for the Windows 11 migration project, and assisted in the IT Operations company-wide.  
+  - **Business/Data Analyst Intern** at [Hydro One](https://www.hydroone.com/): Hydro One is Ontario’s largest electricity transmission and distribution provider. I developed Excel models, helped merge databases for the Windows 11 migration project, and assisted in the IT Operations company-wide.  
   - **Software Engineer Intern** at [Blackberry](https://www.blackberry.com/): At Blackberry, a global leader in security software and services, I developed an interactive data visualization dashboard and internal tools to streamline decision-making processes.  
   - **Software Engineer Intern** at [Sunnybrook Health Sciences Centre](https://sunnybrook.ca/): Sunnybrook is one of Canada’s premier hospitals, ranked **#2 in Canada** and **#30 globally** in Newsweek's "World's Best Hospitals 2024" list. I built software tools to improve operational efficiency in a healthcare setting.  
   - **Product Designer Intern** at [Karla Ascend](https://karlaascend.com/): At Karla Ascend, a fintech startup helping renters become homeowners, I designed the website and mobile app using Figma, delivering intuitive user interfaces and impactful design systems.
 
-- 🎓 **Education**: Studying **Computer Science** at York University.  
-- 🧠 **Passionate About**: Data, Artificial Intelligence, and Human-Computer Interaction.  
+- 🎓 **Education**: Studying **Computer Science** at the Lassonde School of Engineering at York University.
+- 💰 **Scholarship Achievements**: Earned $97,000 in merit-based scholarships at local, national, and international levels (equivalent to a full-ride), awarded for academics, community involvement, and character.
+- 🧬 **Passionate About**: Data, Artificial Intelligence, and Human-Computer Interaction.  
 - 🧪 **Research Experience**: Contributed to the [University of Toronto’s Cobweb Lab](https://docs.google.com/document/d/1poj_nZZkqjlr2TE4mtAW8XFljRqgqi-QZLqzgS2x2Zc/edit?usp=sharing) under the supervision of [Dr. Brad Bass](https://earth-impact.org/2020/05/brad-bass-ph-d/), who was part of the team awarded the **2007 Nobel Peace Prize for Climate Change**. I developed a model to analyze the challenges faced by aging farmers in the Philippines.
 - 🏆 **Hackathon Highlights**: Participated in over **30 hackathons**, contributing as a hacker, mentor, volunteer, and organizer.
 - 💼 **Internship Experience**: Completed **6 work terms** and currently in my **7th work term**.  
 - 🎨 **In my free time**: I love hiking, painting, exploring art galleries, and indulging in matcha desserts.  
 - 🔍 **Open To**: Data-focused roles or software developer positions.  
+
+---
+
+### 🎥 Want to Learn More About Media and Videos Featuring Me?
+[Click here](https://github.com/arianneghislainerull/stuff-about-arianne-ghislaine) to explore!
 
 ---
 
@@ -47,6 +53,7 @@ Hi there! 👋 I’m Arianne, a passionate and goal-oriented Computer Science st
 - **Other Skills**: Data Analysis, Machine Learning, AI, Excel
 
 ---
+
 <p align="center">
   📧 <a href="mailto:arianneghislaine@gmail.com">Email</a> &nbsp;|&nbsp; 💼 <a href="https://linkedin.com/in/ariannerull">LinkedIn</a> &nbsp;|&nbsp; 🌟 <a href="https://ariannerullcodes.netlify.app">Portfolio</a> &nbsp;|&nbsp; 📂 <a href="https://devpost.com/arianneghislaine">Devpost</a>
 </p>
