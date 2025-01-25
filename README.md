@@ -41,8 +41,8 @@ Hi there! 👋 I’m Arianne, a passionate and goal-oriented Computer Science st
 
 ---
 
-### 🎥 Want to Learn More About Media and Videos Featuring Me?
-[Click here](https://github.com/arianneghislainerull/stuff-about-arianne-ghislaine) to explore!
+### 🎬 Explore Media Featuring Me  
+Check out videos and media about me [here](https://github.com/arianneghislainerull/stuff-about-arianne-ghislaine)! 🌟
 
 ---
 
