@@ -36,7 +36,7 @@ Hi there! 👋 I’m Arianne, a passionate and goal-oriented Computer Science st
 - 🧪 **Research Experience**: Contributed to the [University of Toronto’s Cobweb Lab](https://docs.google.com/document/d/1poj_nZZkqjlr2TE4mtAW8XFljRqgqi-QZLqzgS2x2Zc/edit?usp=sharing) under the supervision of [Dr. Brad Bass](https://earth-impact.org/2020/05/brad-bass-ph-d/), who was part of the team awarded the **2007 Nobel Peace Prize for Climate Change**. I developed a model to analyze the challenges faced by aging farmers in the Philippines.
 - 🏆 **Hackathon Highlights**: Participated in over **30 hackathons**, contributing as a hacker, mentor, volunteer, and organizer.
 - 💼 **Internship Experience**: Completed **6 work terms** and currently in my **7th work term**.  
-- 🎨 **In my free time**: I love hiking, painting, exploring art galleries, and indulging in matcha desserts.  
+- 🎨 **In my free time**: I love hiking, painting, reading, exploring art galleries, and indulging in matcha desserts. [Check out my reading list](https://curius.app/arianne-ghislaine-rull).
 - 🔍 **Open To**: Data-focused roles or software developer positions.  
 
 ---
