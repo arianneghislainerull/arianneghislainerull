@@ -16,7 +16,7 @@
 ---
 
 <p align="left">
-Hi there! 👋 I’m Arianne, a passionate and goal-oriented Computer Science student currently interning as a Software Engineering Intern at Telus, working on the Radio Access Networks' data pipelines. I have 2 years of professional work experience in technical roles, mainly specializing in the intersection of software engineering and data science. I thrive on solving complex problems and building impactful solutions using technology. With experience spanning data engineering, business analytics, and software development, I enjoy leveraging data and design to create seamless and accessible user experiences.
+Hi there! 👋 I’m Arianne, a passionate and goal-oriented Computer Science student currently interning as a Software Engineering Intern at Telus, working on the Radio Access Networks' data pipelines. I have [2 years of professional work experience in technical roles](https://github.com/arianneghislainerull/readme-experience), mainly specializing in the intersection of software engineering and data science. I thrive on solving complex problems and building impactful solutions using technology. With experience spanning data engineering, business analytics, and software development, I enjoy leveraging data and design to create seamless and accessible user experiences.
 </p>
 
 ---
