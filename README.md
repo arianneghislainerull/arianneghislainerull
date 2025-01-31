@@ -16,7 +16,7 @@
 ---
 
 <p align="left">
-Hi there! 👋 I’m Arianne, a passionate and goal-oriented Computer Science student currently interning as a Software Engineering Intern at Telus, working on the Radio Access Networks' data pipelines. I have 2 years of industry experience in technical roles. I thrive on solving complex problems and building impactful solutions using technology. With experience spanning data engineering, business analytics, and software development, I enjoy leveraging data and design to create seamless and accessible user experiences.
+Hi there! 👋 I’m Arianne, a passionate and goal-oriented Computer Science student currently interning as a Software Engineering Intern at Telus, working on the Radio Access Networks' data pipelines. I have 2 years of industry experience in technical roles, mainly specializing in the intersection of software engineering and data science. I thrive on solving complex problems and building impactful solutions using technology. With experience spanning data engineering, business analytics, and software development, I enjoy leveraging data and design to create seamless and accessible user experiences.
 </p>
 
 ---
@@ -37,7 +37,7 @@ Hi there! 👋 I’m Arianne, a passionate and goal-oriented Computer Science st
 - 🏆 **Hackathon Highlights**: Participated in over **30 hackathons**, contributing as a hacker, mentor, volunteer, and organizer.
 - 💼 **Internship Experience**: Completed **6 work terms** and currently in my **7th work term**.  
 - 🎨 **In my free time**: I love hiking, painting, reading, exploring art galleries, and indulging in matcha desserts. [Check out my reading list](https://curius.app/arianne-ghislaine-rull).
-- 🔍 **Open To**: Data-focused roles or software developer positions.  
+- 🔍 **Open To**: Data/Software/Backend Engineering roles   
 
 ---
 
