@@ -31,7 +31,6 @@ Hi there! 👋 I’m Arianne, a passionate and goal-oriented Computer Science st
   - **Product Designer Intern** at [Karla Ascend](https://karlaascend.com/): At Karla Ascend, a fintech startup helping renters become homeowners, I designed the website and mobile app using Figma, delivering intuitive user interfaces and impactful design systems.
 
 - 🎓 **Education**: Studying **Computer Science** at the Lassonde School of Engineering at York University.
-- 💰 **Scholarship Achievements**: Earned $97,000 in merit-based scholarships at local, national, and international levels (equivalent to a full-ride), awarded for academics, community involvement, and character.
 - 🧬 **Passionate About**: Data, Artificial Intelligence, and Human-Computer Interaction.  
 - 🧪 **Research Experience**: Contributed to the [University of Toronto’s Cobweb Lab](https://docs.google.com/document/d/1poj_nZZkqjlr2TE4mtAW8XFljRqgqi-QZLqzgS2x2Zc/edit?usp=sharing) under the supervision of [Dr. Brad Bass](https://earth-impact.org/2020/05/brad-bass-ph-d/), who was part of the team awarded the **2007 Nobel Peace Prize for Climate Change**. I developed a model to analyze the challenges faced by aging farmers in the Philippines.
 - 🏆 **Hackathon Highlights**: Participated in over **30 hackathons**, contributing as a hacker, mentor, volunteer, and organizer.
