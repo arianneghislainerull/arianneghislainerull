@@ -18,7 +18,7 @@
 <p align="left">
 Hi there! 👋 I’m Arianne, an aspiring <b>Data & Machine Learning Engineer</b> and Computer Science student with hands-on experience building data pipelines, analytics systems, and production-facing ML solutions.  
 
-Most recently, I worked at <b>TELUS</b> across Data & Machine Learning and Data & Analytics teams, where I:
+Most recently, I worked at <b>TELUS</b> across teams, where I:
 <ul>
   <li>Deployed time-series forecasting frameworks in <b>BigQuery ML</b> (ARIMA+) to predict network traffic trends used for capacity planning</li>
   <li>Built and maintained <b>Looker dashboards</b> backed by <b>BigQuery pipelines</b>, improving stakeholder visibility into forecast accuracy, traffic trends, and capacity risks</li>
