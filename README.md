@@ -27,7 +27,7 @@ Most recently, I worked at <b>TELUS</b> across teams, where I:
   <li>Won <b>1st place</b> in multiple TELUS hackathons for data/AI solutions</li>
 </ul>
 
-I bring <a href="https://github.com/arianneghislainerull/readme-experience">2+ years of professional experience in technical roles</a> across data engineering, analytics, and software engineering. I enjoy translating complex requirements into reliable systems, deploying ML-driven insights, and collaborating with cross-functional teams to deliver measurable impact.
+I bring <a href="https://github.com/arianneghislainerull/readme-experience">3+ years of professional experience in technical roles</a> across machine learning, data and software engineering. I enjoy translating complex requirements into reliable systems, deploying ML-driven insights, and collaborating with cross-functional teams to deliver measurable impact.
 </p>
 
 ---
