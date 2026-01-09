@@ -3,7 +3,7 @@
 <!-- Typing effect -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%2336BCF7&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+GitHub!;Software+Engineer+and+Developer;Hackathon+Champion+%26+Problem+Solver;AI+and+Machine+Learning+Enthusiast;Matcha+Fanatic+%26+Nature+Lover">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%2336BCF7&size=25&center=true&vCenter=true&width=700&height=100&lines=Welcome+to+my+GitHub!;Aspiring+Data+%26+Machine+Learning+Engineer;Data+Engineering+%7C+ML+Systems+%7C+Analytics;Hackathon+Champion+%26+Problem+Solver;Matcha+Fanatic+%26+Nature+Lover">
   </a>
 </p>
 
@@ -16,40 +16,68 @@
 ---
 
 <p align="left">
-Hi there! 👋 I’m Arianne, a passionate and goal-oriented Computer Science student currently interning as a Software Engineering Intern at Telus, working on the Radio Access Networks' data pipelines. I have <a href="https://github.com/arianneghislainerull/readme-experience">2 years of professional work experience in technical roles</a>, mainly specializing in the intersection of software engineering and data science. I thrive on solving complex problems and building impactful solutions using technology. With experience spanning data engineering, business analytics, and software development, I enjoy leveraging data and design to create seamless and accessible user experiences.
+Hi there! 👋 I’m Arianne, an aspiring <b>Data & Machine Learning Engineer</b> and Computer Science student with hands-on experience building data pipelines, analytics systems, and production-facing ML solutions.  
+
+Most recently, I worked at <b>TELUS</b> across Data & Machine Learning and Data & Analytics teams, where I:
+<ul>
+  <li>Deployed time-series forecasting frameworks in <b>BigQuery ML</b> (ARIMA+) to predict network traffic trends used for capacity planning</li>
+  <li>Built and maintained <b>Looker dashboards</b> backed by <b>BigQuery pipelines</b>, improving stakeholder visibility into forecast accuracy, traffic trends, and capacity risks</li>
+  <li>Automated <b>ETL workflows</b> using <b>SQL</b> and <b>Python</b> to streamline ingestion and processing</li>
+  <li>Developed data products and tools for real-time and historical tracking across thousands of sites</li>
+  <li>Won <b>1st place</b> in multiple TELUS hackathons for data/AI solutions</li>
+</ul>
+
+I bring <a href="https://github.com/arianneghislainerull/readme-experience">2+ years of professional experience in technical roles</a> across data engineering, analytics, and software engineering. I enjoy translating complex requirements into reliable systems, deploying ML-driven insights, and collaborating with cross-functional teams to deliver measurable impact.
 </p>
 
 ---
 
-# 🌟 About Me
+# 🌟 About Me — Data & Machine Learning Engineering Focus
 
-- 💼 **Currently**: Thrilled to be in my 7th internship as a **Software Engineering Intern** at [Telus](https://www.telus.com/), one of Canada’s leading telecommunications companies, where I’m contributing to innovative data engineering projects and solutions that impact millions of customers.  
-- 💡 **Previously**:  
-  - **Business/Data Analyst Intern** at [Hydro One](https://www.hydroone.com/): Hydro One is Ontario’s largest electricity transmission and distribution provider. I developed Excel models, helped merge databases for the Windows 11 migration project, and assisted in the IT Operations company-wide.  
-  - **Software Engineer Intern** at [Blackberry](https://www.blackberry.com/): At Blackberry, a global leader in security software and services, I developed an interactive data visualization dashboard and internal tools to streamline decision-making processes.  
-  - **Software Engineer Intern** at [Sunnybrook Health Sciences Centre](https://sunnybrook.ca/): Sunnybrook is one of Canada’s premier hospitals, ranked **#2 in Canada** and **#30 globally** in Newsweek's "World's Best Hospitals 2024" list. I built software tools to improve operational efficiency in a healthcare setting.  
-  - **Product Designer Intern** at [Karla Ascend](https://karlaascend.com/): At Karla Ascend, a fintech startup helping renters become homeowners, I designed the website and mobile app using Figma, delivering intuitive user interfaces and impactful design systems.
+- 💡 **Focus**: Data Engineering, Machine Learning Engineering, and Analytics Engineering  
+- 💼 **Most Recently**: Worked at **TELUS** on network data pipelines, forecasting (BigQuery ML), and dashboards supporting capacity planning and decision-making at scale  
+- 🧠 **Core Interests**: Data systems, ML in production, time-series forecasting, and human-centered analytics tools  
+- 🎓 **Education**: Studying **Computer Science** at the Lassonde School of Engineering at York University  
+- 🧬 **Passionate About**: Data, Artificial Intelligence, and Human-Computer Interaction  
+- 🧪 **Research Experience**: Contributed to the <a href="https://docs.google.com/document/d/1poj_nZZkqjlr2TE4mtAW8XFljRqgqi-QZLqzgS2x2Zc/edit?usp=sharing">University of Toronto’s Cobweb Lab</a> under the supervision of <a href="https://earth-impact.org/2020/05/brad-bass-ph-d/">Dr. Brad Bass</a>, developing a model to analyze challenges faced by aging farmers in the Philippines  
+- 🏆 **Hackathon Highlights**: Participated in over **30 hackathons** as a hacker, mentor, volunteer, and organizer  
+- 💼 **Internship Experience**: Completed **6 work terms** and previously in my **7th work term**  
+- 🎨 **In my free time**: I love hiking, painting, reading, exploring art galleries, and indulging in matcha desserts. <a href="https://curius.app/arianne-ghislaine-rull">Check out my reading list</a>.  
+- 🔍 **Open To**: Data Engineering, Machine Learning Engineering, and Backend roles  
 
-- 🎓 **Education**: Studying **Computer Science** at the Lassonde School of Engineering at York University.
-- 🧬 **Passionate About**: Data, Artificial Intelligence, and Human-Computer Interaction.  
-- 🧪 **Research Experience**: Contributed to the [University of Toronto’s Cobweb Lab](https://docs.google.com/document/d/1poj_nZZkqjlr2TE4mtAW8XFljRqgqi-QZLqzgS2x2Zc/edit?usp=sharing) under the supervision of [Dr. Brad Bass](https://earth-impact.org/2020/05/brad-bass-ph-d/), who was part of the team awarded the **2007 Nobel Peace Prize for Climate Change**. I developed a model to analyze the challenges faced by aging farmers in the Philippines.
-- 🏆 **Hackathon Highlights**: Participated in over **30 hackathons**, contributing as a hacker, mentor, volunteer, and organizer.
-- 💼 **Internship Experience**: Completed **6 work terms** and currently in my **7th work term**.  
-- 🎨 **In my free time**: I love hiking, painting, reading, exploring art galleries, and indulging in matcha desserts. [Check out my reading list](https://curius.app/arianne-ghislaine-rull). 
-- 🔍 **Open To**: Data/Backend/Software Engineering roles   
+---
+
+## 💼 Experience Snapshot
+
+- **TELUS — Data & Machine Learning Engineer Intern (Network Capacity Management)**  
+  - Deployed **BigQuery ML (ARIMA+)** forecasting models for network traffic prediction  
+  - Built **4 Looker dashboards** visualizing forecast accuracy, traffic trends, and capacity risk signals  
+  - Represented TELUS at external events including IEEE engagements  
+  - Won **1st place** at a TELUS Data & AI Hackathon (AI-powered fitness coach)
+
+- **TELUS — Data & Software Engineer Intern (RAN Standards & Best Practices)**  
+  - Built a monitoring platform for **4,000+ sites** using **GCP, BigQuery, Python, SQL, Docker, Pulumi, and Google Maps API**  
+  - Automated ETL workflows and delivered **5 Looker dashboards** for operational reporting  
+  - Won **1st place** in the TELUS Q1 2025 Data & Analytics Hackathon and the TELUS Sustainability Challenge
+
+- **Hydro One — Data Analyst Intern**  
+- **BlackBerry — Software Engineer Intern**  
+- **Sunnybrook Health Sciences Centre — Software Engineer Intern**  
+- **Karla — Product Designer Intern**  
 
 ---
 
 ### 🎬 Explore Media Featuring Me  
-Check out videos and media about me [here](https://github.com/arianneghislainerull/stuff-about-arianne-ghislaine)! 🌟
+Check out videos and media about me <a href="https://github.com/arianneghislainerull/stuff-about-arianne-ghislaine">here</a> 🌟
 
 ---
 
-### 💻 **Tech Stack**
-- **Languages**: Python, Java, SQL, JavaScript, HTML/CSS
-- **Tools & Frameworks**: Flask, React, Tableau, Figma
-- **Cloud & Databases**: AWS, GCP, Firebase, MySQL, MongoDB
-- **Other Skills**: Data Analysis, Machine Learning, AI, Excel
+### 💻 Tech Stack
+
+- **Languages**: Python, Java, SQL, JavaScript, HTML/CSS  
+- **Tools & Frameworks**: Flask, React, Tableau, Looker, Figma  
+- **Cloud & Databases**: GCP, AWS, BigQuery, Firebase, MySQL, MongoDB  
+- **Other Skills**: Data Engineering, ETL, Forecasting, Machine Learning, Analytics, Excel  
 
 ---
 
