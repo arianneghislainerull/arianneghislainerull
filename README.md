@@ -41,7 +41,7 @@ I bring over 3 years of professional experience in technical roles</a> across ma
 - 🧬 **Passionate About**: Data, Artificial Intelligence, and Human-Computer Interaction  
 - 🧪 **Research Experience**: Contributed to the <a href="https://docs.google.com/document/d/1poj_nZZkqjlr2TE4mtAW8XFljRqgqi-QZLqzgS2x2Zc/edit?usp=sharing">University of Toronto’s Cobweb Lab</a> under the supervision of <a href="https://earth-impact.org/2020/05/brad-bass-ph-d/">Dr. Brad Bass</a>, developing a model to analyze challenges faced by aging farmers in the Philippines  
 - 🏆 **Hackathon Highlights**: Participated in over **30 hackathons** as a hacker, mentor, volunteer, and organizer  
-- 💼 **Internship Experience**: Completed **6 work terms** and previously in my **7th work term**  
+- 💼 **Internship Experience**: Completed internships at Telus, Hydro One, Blackberry, Karla, and Sunnybrook Health Sciences Centre
 - 🎨 **In my free time**: I love hiking, painting, reading, exploring art galleries, and indulging in matcha desserts. <a href="https://curius.app/arianne-ghislaine-rull">Check out my reading list</a>.  
 - 🔍 **Open To**: Data Engineering, Machine Learning Engineering, and Backend roles  
 
