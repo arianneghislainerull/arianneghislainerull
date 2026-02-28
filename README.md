@@ -27,7 +27,7 @@ Most recently, I worked at <b>TELUS</b> across teams, where I:
   <li>Won <b>1st place</b> in multiple TELUS hackathons for data/AI solutions</li>
 </ul>
 
-I bring <a href="https://github.com/arianneghislainerull/readme-experience">3+ years of professional experience in technical roles</a> across machine learning, data and software engineering. I enjoy translating complex requirements into reliable systems, deploying ML-driven insights, and collaborating with cross-functional teams to deliver measurable impact.
+I bring over 3 years of professional experience in technical roles</a> across machine learning, data and software engineering. I enjoy translating complex requirements into reliable systems, deploying ML-driven insights, and collaborating with cross-functional teams to deliver measurable impact.
 </p>
 
 ---
@@ -44,26 +44,6 @@ I bring <a href="https://github.com/arianneghislainerull/readme-experience">3+ y
 - 💼 **Internship Experience**: Completed **6 work terms** and previously in my **7th work term**  
 - 🎨 **In my free time**: I love hiking, painting, reading, exploring art galleries, and indulging in matcha desserts. <a href="https://curius.app/arianne-ghislaine-rull">Check out my reading list</a>.  
 - 🔍 **Open To**: Data Engineering, Machine Learning Engineering, and Backend roles  
-
----
-
-## 💼 Experience Snapshot
-
-- **TELUS — Data & Machine Learning Engineer Intern (Network Capacity Management)**  
-  - Deployed **BigQuery ML (ARIMA+)** forecasting models for network traffic prediction  
-  - Built **4 Looker dashboards** visualizing forecast accuracy, traffic trends, and capacity risk signals  
-  - Represented TELUS at external events including IEEE engagements  
-  - Won **1st place** at a TELUS Data & AI Hackathon (AI-powered fitness coach)
-
-- **TELUS — Data & Software Engineer Intern (RAN Standards & Best Practices)**  
-  - Built a monitoring platform for **4,000+ sites** using **GCP, BigQuery, Python, SQL, Docker, Pulumi, and Google Maps API**  
-  - Automated ETL workflows and delivered **5 Looker dashboards** for operational reporting  
-  - Won **1st place** in the TELUS Q1 2025 Data & Analytics Hackathon and the TELUS Sustainability Challenge
-
-- **Hydro One — Data Analyst Intern**  
-- **BlackBerry — Software Engineer Intern**  
-- **Sunnybrook Health Sciences Centre — Software Engineer Intern**  
-- **Karla — Product Designer Intern**  
 
 ---
 
